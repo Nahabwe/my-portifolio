@@ -1,8 +1,6 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { FaBars,  FaTimes } from 'react-icons/fa';
 import ToggleThemeButton from './ToggleThemeButton';
-import { Link } from 'react-router-dom';
-import { FaDownload  } from 'react-icons/fa6';
 
 
  

@@ -1,6 +1,4 @@
-import React from 'react'
 import { FaCode, FaLock, FaMobileAlt, FaServer } from 'react-icons/fa'
-// import { services } from '../data/data'
 import {motion} from 'framer-motion'
 const Services = () => {
   const services=[

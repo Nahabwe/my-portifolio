@@ -1,12 +1,8 @@
-import React, { useEffect, useState } from 'react'
 import {motion} from 'framer-motion'
 import { userProfile } from '../data/data'
 import { FaArrowDown } from 'react-icons/fa'
 
 
-
-
-// h-screen bg-gradient-to-br from-[#0f0c29] via-[#302b63] to-[#24243e] flex flex-col justify-center items-center text-center relative overflow-hidden ----section styles
 const Hero = () => {
     return (
         <section

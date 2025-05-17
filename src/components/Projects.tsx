@@ -1,4 +1,3 @@
-import React from 'react'
 import { projects } from '../data/data'
 import {motion} from 'framer-motion'
 import Tilt from 'react-parallax-tilt'
