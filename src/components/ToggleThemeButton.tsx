@@ -1,4 +1,3 @@
-import React from 'react'
 import useDarkThem from '../context/useDarkThem'
 import { FaMoon, FaSun } from 'react-icons/fa'
 
